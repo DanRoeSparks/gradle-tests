@@ -1,0 +1,5 @@
+task goodbye {
+    doLast {
+        println 'Goodbye world!'
+    }
+}
